@@ -2,7 +2,7 @@
 
 Bienvenidos a la guía básica de gestión de riesgos.
 
-Esta guia esta realizada gracias a los conceptos adquiridos gracias al programa de Google
+Esta guia esta realizada gracias a los conceptos adquiridos mediante el programa de Google de Ciberseguridad
 
 https://www.coursera.org/professional-certificates/google-cybersecurity
 
